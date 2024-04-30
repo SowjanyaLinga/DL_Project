@@ -35,10 +35,7 @@ As this project has been developed in Google Colab, the installation process is 
 1. **Open in Colab:** Click on the provided IPYNB file link, and it will open directly in Google Colab.
 
 2. **Runtime Configuration:** Ensure that you have a working internet connection and select a Python runtime that supports GPU acceleration for optimal performance.
-
-3. **Download the Data:** Download the english and arabic data from the data folder and upload it to your colab envinirment.
-
-4. **Run All Cells:** Execute the notebook cells sequentially by selecting "Runtime" -> "Run all" from the menu. This will install and configure the necessary dependencies.
+3. **Run All Cells:** Execute the notebook cells sequentially by selecting "Runtime" -> "Run all" from the menu. This will install and configure the necessary dependencies.
 
 ## Usage instructions
 
